@@ -24,6 +24,10 @@ li{
     justify-content: center;
     align-items: center;
 }
+li:hover{
+    background-color: #141414;
+    border-radius: 50px;
+}
 a{
     padding: 15px 25px;
     color: white;
